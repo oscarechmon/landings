@@ -1,0 +1,32 @@
+
+ body {
+    overflow-x: hidden;
+  }
+     .top-nav {
+        background-color: #CACACA !important;
+    }
+
+    .bg-custom {
+        background-color: #B8B6B6;
+    }
+
+    .nav-link {
+        color: black;
+    }
+
+    .nav-item:hover {
+        background-color: #1E1E1E;
+    }
+
+    .nav-link:hover {
+        color: white;
+    }
+
+    .banner {
+        background-color: #1E1E1E;
+        border-bottom-left-radius: 140px;
+    }
+    .caja1 {
+        background-color: #1E1E1E;
+        border-bottom-right-radius: 140px;
+    }
